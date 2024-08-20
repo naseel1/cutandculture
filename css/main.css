@@ -449,6 +449,23 @@ display: none;
 .mob-btn{
 display:block;
 }
+.about_section .about_img_2 {
+margin: -90px 0 0 115px;
+height: 200px;
+}
+.about_section .about_img_1 {
+    height: 200px;
+}
+.about_section .about_img_3 {
+        margin: -175px 0 0 31px;
+        height: 200px;
+    }
+.about_section .about_img img {
+height:200px;
+}
+.about_img {
+     display: block;
+    }
 }
 .banner-video{
     width: 100%;
