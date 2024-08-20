@@ -464,7 +464,7 @@ height: 200px;
 height:200px;
 }
 .about_img {
-     display: block;
+     display: block !important;
     }
 }
 .banner-video{
