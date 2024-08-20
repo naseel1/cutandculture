@@ -450,7 +450,7 @@ display: none;
 display:block;
 }
 .about_section .about_img_2 {
-margin: -90px 0 0 115px;
+margin: -90px 0 0 115px !important;
 height: 200px;
 }
 .about_section .about_img_1 {
