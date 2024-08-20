@@ -474,6 +474,9 @@ height:200px;
     position: absolute;
     object-position: center;
 }
+    .mob-btn {
+        display: none;
+    }
 #banner{}
 .navbar{
     border: medium none;
