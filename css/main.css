@@ -439,6 +439,9 @@ transform:scale(1.1);
   -webkit-transition-delay: 0.6s;
           transition-delay: 0.6s;
 }
+  .mob-btn {
+        display: none;
+    }
 @media (max-width: 600px) {
 .slider_content {
     margin-right: 10px;
@@ -474,9 +477,7 @@ height:200px;
     position: absolute;
     object-position: center;
 }
-    .mob-btn {
-        display: none;
-    }
+  
 #banner{}
 .navbar{
     border: medium none;

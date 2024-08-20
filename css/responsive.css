@@ -31,6 +31,7 @@
     }
     .slicknav_menu {
         display:block;
+        position: fixed;
     }
     .header-btn{
         margin-right: 50px;
